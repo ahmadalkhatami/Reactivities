@@ -1,0 +1,11 @@
+D:\project-pribadi\Reactivities\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\project-pribadi\Reactivities\Domain\bin\Debug\net8.0\Domain.dll
+D:\project-pribadi\Reactivities\Domain\bin\Debug\net8.0\Domain.pdb
+D:\project-pribadi\Reactivities\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\project-pribadi\Reactivities\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\project-pribadi\Reactivities\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\project-pribadi\Reactivities\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\project-pribadi\Reactivities\Domain\obj\Debug\net8.0\Domain.dll
+D:\project-pribadi\Reactivities\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\project-pribadi\Reactivities\Domain\obj\Debug\net8.0\Domain.pdb
+D:\project-pribadi\Reactivities\Domain\obj\Debug\net8.0\ref\Domain.dll
