@@ -2681,11 +2681,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\project-pribadi\\Reactivities\\Persistence\\Persistence.csproj",
+      "projectUniqueName": "D:\\Data Akhmad\\project-pribadi\\Reactivities\\Persistence\\Persistence.csproj",
       "projectName": "Persistence",
-      "projectPath": "D:\\project-pribadi\\Reactivities\\Persistence\\Persistence.csproj",
+      "projectPath": "D:\\Data Akhmad\\project-pribadi\\Reactivities\\Persistence\\Persistence.csproj",
       "packagesPath": "C:\\Users\\900030952\\.nuget\\packages\\",
-      "outputPath": "D:\\project-pribadi\\Reactivities\\Persistence\\obj\\",
+      "outputPath": "D:\\Data Akhmad\\project-pribadi\\Reactivities\\Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\900030952\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2702,8 +2702,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\project-pribadi\\Reactivities\\Domain\\Domain.csproj": {
-              "projectPath": "D:\\project-pribadi\\Reactivities\\Domain\\Domain.csproj"
+            "D:\\Data Akhmad\\project-pribadi\\Reactivities\\Domain\\Domain.csproj": {
+              "projectPath": "D:\\Data Akhmad\\project-pribadi\\Reactivities\\Domain\\Domain.csproj"
             }
           }
         }

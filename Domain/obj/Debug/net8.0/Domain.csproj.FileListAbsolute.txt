@@ -9,3 +9,16 @@ D:\project-pribadi\Reactivities\Domain\obj\Debug\net8.0\Domain.dll
 D:\project-pribadi\Reactivities\Domain\obj\Debug\net8.0\refint\Domain.dll
 D:\project-pribadi\Reactivities\Domain\obj\Debug\net8.0\Domain.pdb
 D:\project-pribadi\Reactivities\Domain\obj\Debug\net8.0\ref\Domain.dll
+D:\project-pribadi\Reactivities\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+D:\Data Akhmad\project-pribadi\Reactivities\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\Data Akhmad\project-pribadi\Reactivities\Domain\bin\Debug\net8.0\Domain.dll
+D:\Data Akhmad\project-pribadi\Reactivities\Domain\bin\Debug\net8.0\Domain.pdb
+D:\Data Akhmad\project-pribadi\Reactivities\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data Akhmad\project-pribadi\Reactivities\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\Data Akhmad\project-pribadi\Reactivities\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\Data Akhmad\project-pribadi\Reactivities\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\Data Akhmad\project-pribadi\Reactivities\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+D:\Data Akhmad\project-pribadi\Reactivities\Domain\obj\Debug\net8.0\Domain.dll
+D:\Data Akhmad\project-pribadi\Reactivities\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\Data Akhmad\project-pribadi\Reactivities\Domain\obj\Debug\net8.0\Domain.pdb
+D:\Data Akhmad\project-pribadi\Reactivities\Domain\obj\Debug\net8.0\ref\Domain.dll

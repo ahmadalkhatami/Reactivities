@@ -4473,11 +4473,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\project-pribadi\\Reactivities\\API\\API.csproj",
+      "projectUniqueName": "D:\\Data Akhmad\\project-pribadi\\Reactivities\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "D:\\project-pribadi\\Reactivities\\API\\API.csproj",
+      "projectPath": "D:\\Data Akhmad\\project-pribadi\\Reactivities\\API\\API.csproj",
       "packagesPath": "C:\\Users\\900030952\\.nuget\\packages\\",
-      "outputPath": "D:\\project-pribadi\\Reactivities\\API\\obj\\",
+      "outputPath": "D:\\Data Akhmad\\project-pribadi\\Reactivities\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\900030952\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4494,8 +4494,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\project-pribadi\\Reactivities\\Application\\Application.csproj": {
-              "projectPath": "D:\\project-pribadi\\Reactivities\\Application\\Application.csproj"
+            "D:\\Data Akhmad\\project-pribadi\\Reactivities\\Application\\Application.csproj": {
+              "projectPath": "D:\\Data Akhmad\\project-pribadi\\Reactivities\\Application\\Application.csproj"
             }
           }
         }
